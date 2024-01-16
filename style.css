@@ -1,0 +1,77 @@
+.gradient-background {
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    padding-top: 100px;
+    position: relative;
+    font-family: 'Zilla Slab', serif;
+  }
+
+h1 {
+    font-family: 'Abril Fatface', serif;
+}
+
+.mb-5 {
+    font-family: 'Zilla Slab', serif;
+    font-weight: 800;
+}
+
+#p1 {
+    font-family: 'Zilla Slab', serif;
+}
+
+#p2 {
+    font-family: 'Zilla Slab', serif;
+}
+
+#p3 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: 800;
+}
+
+ul {
+    font-family: 'Zilla Slab', serif;
+    text-align: center;
+    list-style-type: none;
+}
+
+#p4, #p5 {
+    font-family: 'Zilla Slab', serif;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 2.5rem;
+    margin-top: 200px;
+
+}
+
+#Contact {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+body {
+    background: #18c9c5;
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    background-color: white;
+    display: block;
+    justify-content: space-evenly;
+  }
+
+img {
+    border-radius: 65px;
+}
